@@ -3,7 +3,7 @@
   height: 182px;
 }
 
-.card__title {
+title {
   color: #282828;
   font-size: 14px;
 }
@@ -16,5 +16,4 @@
 .card {
   background-color: #fff;
   padding: 16px 8px;
-  margin-bottom: 10px;
 }
