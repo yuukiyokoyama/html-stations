@@ -1,6 +1,5 @@
 .card__img-top {
-  width: 288px;
-  height: 182px;
+  background-color: #fff;
 }
 
 title {
@@ -11,9 +10,4 @@ title {
 .card__description {
   color: #282828;
   font-size: 12px;
-}
-
-.card {
-  background-color: #fff;
-  padding: 16px 8px;
 }
