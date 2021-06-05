@@ -153,7 +153,6 @@ nav {
 
 .card-container {
   display: flex;
-  justify-content: center;
   align-items: center;
 }
 
@@ -170,23 +169,14 @@ nav {
   margin: 30px 30px;
 }
 
-@media screen and (max-width: 768px) {
-  .card__title {
-    color: #282828;
-    font-size: 14px;
-  }
-
-  .card__description {
-    color: #282828;
-    font-size: 12px;
-  }
+.card__title {
+  color: #282828;
+  font-size: 14px;
 }
 
-@media screen and (max-width: 320px) {
-  .card__title {
-    color: #282828;
-    font-size: 14px;
-  }
+.card__description {
+  color: #282828;
+  font-size: 12px;
 }
 
 footer {

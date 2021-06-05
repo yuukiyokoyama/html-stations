@@ -168,25 +168,17 @@ nav {
   padding: 16px 8px;
   margin-left: 60px;
   margin: 30px 30px;
+  display: inline-block;
 }
 
-@media screen and (max-width: 768px) {
-  .card__title {
-    color: #282828;
-    font-size: 14px;
-  }
-
-  .card__description {
-    color: #282828;
-    font-size: 12px;
-  }
+.card__title {
+  color: #282828;
+  font-size: 14px;
 }
 
-@media screen and (max-width: 320px) {
-  .card__title {
-    color: #282828;
-    font-size: 14px;
-  }
+.card__description {
+  color: #282828;
+  font-size: 12px;
 }
 
 footer {
