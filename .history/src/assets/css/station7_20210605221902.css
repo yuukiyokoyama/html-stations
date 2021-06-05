@@ -162,7 +162,6 @@ nav {
   padding: 16px 8px;
   float: left;
   margin-left: 60px;
-  margin-top: 30px;
 }
 
 /* ========================================
@@ -188,6 +187,5 @@ nav {
 }
 
 footer {
-  height: 20px;
   background-color: #ffffff;
 }
