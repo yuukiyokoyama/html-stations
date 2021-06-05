@@ -153,8 +153,6 @@ nav {
 
 .card-container {
   display: flex;
-  justify-content: center;
-  align-items: center;
 }
 
 .card__img-top {
@@ -184,3 +182,6 @@ footer {
   height: 20px;
   background-color: #ffffff;
 }
+
+justify-content: center;
+align-items: center;

@@ -154,7 +154,6 @@ nav {
 .card-container {
   display: flex;
   justify-content: center;
-  align-items: center;
 }
 
 .card__img-top {

@@ -151,12 +151,6 @@ nav {
   background-color: #726666;
 }
 
-.card-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
 .card__img-top {
   width: 288px;
   height: 182px;
@@ -164,10 +158,12 @@ nav {
 }
 
 .card {
-  background-color: #fff;
+  background-color: #ffffff;
   padding: 16px 8px;
   margin-left: 60px;
-  margin: 30px 30px;
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
 }
 
 .card__title {

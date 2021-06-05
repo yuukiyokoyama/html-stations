@@ -153,8 +153,6 @@ nav {
 
 .card-container {
   display: flex;
-  justify-content: center;
-  align-items: center;
 }
 
 .card__img-top {
@@ -167,7 +165,7 @@ nav {
   background-color: #fff;
   padding: 16px 8px;
   margin-left: 60px;
-  margin: 30px 30px;
+  margin-top: 30px;
 }
 
 .card__title {
@@ -184,3 +182,6 @@ footer {
   height: 20px;
   background-color: #ffffff;
 }
+
+justify-content: center;
+align-items: center;
